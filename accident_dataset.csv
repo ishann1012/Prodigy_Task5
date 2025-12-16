@@ -1,0 +1,11 @@
+Accident_ID,Date,Time,Location,Accident_Type,Weather,Road_Condition,Casualties,Severity
+A001,2025-01-05,08:30,Mumbai,Car,Clear,Dry,2,Medium
+A002,2025-01-06,14:15,Delhi,Bike,Rainy,Wet,1,Low
+A003,2025-01-07,19:45,Pune,Truck,Foggy,Wet,3,High
+A004,2025-01-08,10:20,Bangalore,Car,Clear,Dry,0,Low
+A005,2025-01-09,22:10,Hyderabad,Bike,Rainy,Wet,2,Medium
+A006,2025-01-10,16:40,Chennai,Bus,Clear,Dry,4,High
+A007,2025-01-11,07:50,Nagpur,Car,Clear,Dry,1,Low
+A008,2025-01-12,18:30,Kolkata,Truck,Foggy,Wet,5,High
+A009,2025-01-13,12:05,Ahmedabad,Bike,Rainy,Wet,2,Medium
+A010,2025-01-14,21:55,Jaipur,Car,Clear,Dry,1,Low
